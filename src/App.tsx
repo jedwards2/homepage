@@ -9,18 +9,21 @@ function App() {
     return () => clearInterval(timer);
   });
 
-  let time = date.toLocaleString().slice(10, 16);
+  let time = date.toLocaleString();
+  let time_array = time.split(":");
   let am_pm = date.toLocaleString().slice(19);
-  let getDay = () => {
+
+  const getDay = () => {
     let current_day = date.getDay();
     let days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
     return days[current_day];
   }
+
   return (
     <div className="App">
       <div className="time-div">
         <p>{getDay()}</p>
-        <p>{time}</p>
+        <p>{time_array[0].slice(-2)}:{time_array[1]}</p>
         <p>{am_pm}</p>
       </div>
       <div className="link-div">
