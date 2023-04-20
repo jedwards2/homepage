@@ -30,6 +30,7 @@ function App() {
         <a href="https://github.com/jedwards2"><img alt="github" src={require("./images/github.png")} /></a>
         <a href="https://www.youtube.com/"><img alt="youtube" src={require("./images/youtube.png")} /></a>
         <a href="https://en.wikipedia.org/wiki/Special:Random"><img alt="wikipedia" src={require("./images/wikipedia.png")} /></a>
+        <a href="https://doc.rust-lang.org/book/title-page.html"><img alt="rustbook" src={require("./images/rust.png")} /></a>
       </div>
     </div>
   );
