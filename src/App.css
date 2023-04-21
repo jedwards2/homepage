@@ -27,6 +27,7 @@ html, body, #root {
   font-size: 80px;
   color: white;
   margin: 0;
+  font-weight: bold;
 }
 
 .link-div {
