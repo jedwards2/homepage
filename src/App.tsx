@@ -11,7 +11,7 @@ function App() {
 
   let time = date.toLocaleString();
   let time_array = time.split(":");
-  let am_pm = date.toLocaleString().slice(19);
+  let am_pm = time_array[2].split(" ")[1];
 
   const getDay = () => {
     let current_day = date.getDay();
