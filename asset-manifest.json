@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.fec6cd04.css",
+    "main.css": "/homepage/static/css/main.962b4a08.css",
     "main.js": "/homepage/static/js/main.6d05296c.js",
-    "static/media/house.jpg": "/homepage/static/media/house.53687e88b357effec79e.jpg",
+    "static/media/color.jpg": "/homepage/static/media/color.bd25da6b05b5647537c2.jpg",
     "static/media/JetBrainsMono-Bold.woff2": "/homepage/static/media/JetBrainsMono-Bold.75885bf04057d4697ae5.woff2",
     "static/media/rust.png": "/homepage/static/media/rust.7feb06fde5657d352dfe.png",
     "static/media/youtube.png": "/homepage/static/media/youtube.752c1d99eb0d20240e7e.png",
     "static/media/cycling74.png": "/homepage/static/media/cycling74.cb8d2c3228e77c19c9aa.png",
     "static/media/wikipedia.png": "/homepage/static/media/wikipedia.14dc9efddb64ce54f5a9.png",
     "index.html": "/homepage/index.html",
-    "main.fec6cd04.css.map": "/homepage/static/css/main.fec6cd04.css.map",
+    "main.962b4a08.css.map": "/homepage/static/css/main.962b4a08.css.map",
     "main.6d05296c.js.map": "/homepage/static/js/main.6d05296c.js.map"
   },
   "entrypoints": [
-    "static/css/main.fec6cd04.css",
+    "static/css/main.962b4a08.css",
     "static/js/main.6d05296c.js"
   ]
 }
