@@ -1,4 +1,6 @@
-html, body, #root {
+html,
+body,
+#root {
   height: 100%;
   margin: 0;
   padding: 0;
@@ -10,10 +12,10 @@ html, body, #root {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(./images/color.jpg);
+  background-image: url(./images/acadia.jpg);
   background-position: center;
   background-size: cover;
-  gap: 10vh
+  gap: 10vh;
 }
 
 .time-div {
@@ -42,13 +44,12 @@ html, body, #root {
 }
 
 .link-div img {
-  width: 6vh;  
+  width: 6vh;
   border-radius: 50%;
 }
 
 @font-face {
-  font-family: 'JetBrainsMono-Bold';
-  src: local('JetBrainsMono-Bold'), url(./fonts/JetBrainsMono-Bold.woff2) format('woff2');
+  font-family: "JetBrainsMono-Bold";
+  src: local("JetBrainsMono-Bold"),
+    url(./fonts/JetBrainsMono-Bold.woff2) format("woff2");
 }
-
-
