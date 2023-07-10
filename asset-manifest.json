@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.16c29318.css",
+    "main.css": "/homepage/static/css/main.649866bd.css",
     "main.js": "/homepage/static/js/main.6d05296c.js",
-    "static/media/acadia.jpg": "/homepage/static/media/acadia.8341dab5fee8b11b3cb2.jpg",
+    "static/media/colors.jpg": "/homepage/static/media/colors.05741ff8cb5efe9d1367.jpg",
     "static/media/JetBrainsMono-Bold.woff2": "/homepage/static/media/JetBrainsMono-Bold.75885bf04057d4697ae5.woff2",
     "static/media/rust.png": "/homepage/static/media/rust.7feb06fde5657d352dfe.png",
     "static/media/youtube.png": "/homepage/static/media/youtube.752c1d99eb0d20240e7e.png",
     "static/media/cycling74.png": "/homepage/static/media/cycling74.cb8d2c3228e77c19c9aa.png",
     "static/media/wikipedia.png": "/homepage/static/media/wikipedia.14dc9efddb64ce54f5a9.png",
     "index.html": "/homepage/index.html",
-    "main.16c29318.css.map": "/homepage/static/css/main.16c29318.css.map",
+    "main.649866bd.css.map": "/homepage/static/css/main.649866bd.css.map",
     "main.6d05296c.js.map": "/homepage/static/js/main.6d05296c.js.map"
   },
   "entrypoints": [
-    "static/css/main.16c29318.css",
+    "static/css/main.649866bd.css",
     "static/js/main.6d05296c.js"
   ]
 }
